@@ -10,6 +10,10 @@ The following libraries are required to run this project:
 - Numpy
 - Matplotlib
 
+### Dataset
+The dataset can be accessed via this link:
+https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
+
 ### Model
 The model is built using TensorFlow's Keras API. The model is compiled with binary cross-entropy loss and the Adam optimizer. Training is conducted on the training data over 5 epochs, utilizing a batch size of 64.
 
